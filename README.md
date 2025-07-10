@@ -53,5 +53,5 @@ Bolt.new supports most popular JavaScript frameworks and libraries. If it runs o
 **How can I add make sure my framework/project works well in bolt?**  
 We are excited to work with the JavaScript ecosystem to improve functionality in Bolt. Reach out to us via [hello@stackblitz.com](mailto:hello@stackblitz.com) to discuss how we can partner!
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2F{YOUR_USERNAME}%2Fbolt.new&env=ANTHROPIC_API_KEY)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fzuber-techdev%2Fbolt.new&env=ANTHROPIC_API_KEY)
 
